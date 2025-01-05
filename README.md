@@ -29,7 +29,7 @@ The dashboard addresses key business questions:
 - **Skills Applied**: Data cleaning, analysis, visualization, and storytelling.
 
 ## 📊 Dashboard
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
+![Dashboard Screenshot](https://github.com/mr-shanks/Coffee-Shop-Sales-Dashboard/blob/main/assets/Dashboard-Screenshot.png)
 
 ## 🚀 Insights & Recommendations
 - Peak sales occur at **9 AM**, suggesting a focus on breakfast promotions.
