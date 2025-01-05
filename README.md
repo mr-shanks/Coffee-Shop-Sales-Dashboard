@@ -21,6 +21,28 @@ The dashboard addresses key business questions:
   - Pie charts for product category and order size distribution.
   - Bar charts for revenue by location and top-selling products.
 
+## 📁 Directory Structure
+```
+Coffee_Shop_Analysis_Project/
+│
+├── Data/
+│   ├── Raw_Data.xlsx
+│   ├── Cleaned_Data.xlsx
+│
+├── Analysis/
+│   ├── Pivot_Tables.xlsx
+│   ├── Measures.xlsx
+│
+├── Dashboard/
+│   ├── Coffee_Shop_Dashboard.xlsx
+│   ├── Dashboard_Screenshot.png
+│
+├── Reports/
+│   ├── Coffee_Shop_Analysis_Report.pdf
+│
+└── README.md
+```
+
 ## 🛠️ Tools Used
 - **Microsoft Excel 2021**:
   - Power Query for data cleaning and transformation.
@@ -32,12 +54,14 @@ The dashboard addresses key business questions:
 ![Dashboard Screenshot](https://github.com/mr-shanks/Coffee-Shop-Sales-Dashboard/blob/main/assets/Dashboard-Screenshot.png)
 
 ## 🚀 Insights & Recommendations
-- Peak sales occur at **9 AM**, suggesting a focus on breakfast promotions.
+- **Peak Sales Timing:** Early mornings (7 AM–10 AM) and weekends, suggesting a focus on breakfast promotions.
 - **Barista Espresso** is the top-selling product, and it can be bundled with other items to increase sales.
+- **Revenue Trends:** Hell’s Kitchen location outperforms others.
 - **Weekend sales** outperform weekdays, calling for targeted weekend campaigns.
 
 ## 📝 Dataset
 - The dataset used in this project is a fictional dataset representing coffee shop sales.
+- **Dataset Source:** [Maven Analytics](https://www.mavenanalytics.io/)
 
 ## 🔗 Repository Files
 - `Coffee-Shop-Sales-Dashboard.xlsx`: Main dashboard file.
